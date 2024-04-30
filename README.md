@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif">
 <h1 align="center">Hi 👋, I'm Rawan Tarek</h1>
 <h3 align="center">Front End Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif">
+
 
 - 🌱 I’m currently learning **Back End Development using C#**
 
