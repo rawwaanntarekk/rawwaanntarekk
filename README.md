@@ -17,13 +17,13 @@
 
 <div>
   <div align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+   <h2 style="display: inline-block">Technologies That I Know</h2>
   </div>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,redis,github,html,java,js,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,redis,github,html,java,js,postman,py,vscode&perline=8" />
   </a>
 </p>
 
