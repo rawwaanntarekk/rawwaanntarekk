@@ -15,8 +15,7 @@
 <br><br><br><br><br><br>
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+<div>
   <div align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </div>
