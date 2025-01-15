@@ -1,6 +1,4 @@
-
-
-<!--h1 without bottom border-->
+!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Rawan</h1></summary>
@@ -25,28 +23,33 @@
 
 <!--Intro end-->
 
-<h3>My GitHub Stats</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawwaanntarekk&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Top Languages" style="width: 450px; height: auto;">
-  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Coding" style="width: 300px; height: auto;">
-  
-</div>
 
-<div style="margin-top: 10px"></div>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="width: 55%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rawwaanntarekk&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;">
-  </div>
-  <div style="width: 60%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawwaanntarekk&theme=dark" alt="GitHub Streak Stats" style="width: 500%; height: 145px;">
-  </div>
-</div>
-<hr width="60%">
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rawwaanntarekk&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rawan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rawwaanntarekk&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rawwaanntarekk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
@@ -66,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,javascript,git,github,net,figma,redis,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,redis,github,html,java,js,mssql,postman,py,vscode&perline=14" />
   </a>
 </p>
 
@@ -85,5 +88,9 @@
 </p>
 
 
+<!--profile visit count-->
+<div align="center">
 
- 
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
