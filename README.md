@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm not a great programmer; I'm just a good programmer with great habits.</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
 
@@ -25,28 +25,24 @@
 
 <!--Intro end-->
 
+<h3>My GitHub Stats</h3>
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawwaanntarekk&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Top Languages" style="width: 450px; height: auto;">
+  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Coding" style="width: 300px; height: auto;">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rawwaanntarekk&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rawan streak" src="https://github-readme-streak-stats.herokuapp.com?user=rawwaanntarekk&theme=dark" alt="GitHub Streak" /> 
-</td>
+</div>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rawwaanntarekk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<div style="margin-top: 10px"></div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="width: 55%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rawwaanntarekk&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 60%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawwaanntarekk&theme=dark" alt="GitHub Streak Stats" style="width: 500%; height: 145px;">
+  </div>
+</div>
+<hr width="60%">
 
 <!--- trophy (start) -->
 <div align=center>
@@ -89,11 +85,5 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
-
+ 
