@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">I'm not a great programmer; I'm just a good programmer with great habits.</h2></summary>
   </ul>
 </div>
 
