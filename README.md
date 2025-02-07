@@ -5,13 +5,14 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif">
 
 
-- 🔭 I’m currently developing myslef in **MSSQL, C#, EF Core LINQ, .Net MVC, .Net APIs**
+- I’m currently developing myslef in **MSSQL, C#, EF Core LINQ, .Net MVC, .Net APIs**
 
-- 💬 Ask me about **MSSQL, C#, ASP.NET Core**
+- Ask me about **MSSQL, C#, ASP.NET Core**
 
-- 📫 Feel free to reach me out **eng.rawantarek21@gmail.com**
+- Feel free to reach me out **eng.rawantarek21@gmail.com**
 
-- 📄 Know about my experiences [[(https://drive.google.com/file/d/1i1ZiCxwjXo1Ek9Wox_2RH4x72PsiXy_3/view?usp=sharing)](https://drive.google.com/file/d/1rMU5E8MevODg2kwy0xGEu1Ji4ZWXVvKb/view?usp=drive_link)](https://drive.google.com/file/d/13emnc-M8aZlFbORUO1Ye0TxvWZffolTh/view?usp=sharing)
+- Know about my experiences [Check my resume](https://drive.google.com/file/d/13emnc-M8aZlFbORUO1Ye0TxvWZffolTh/view?usp=drive_link)
+
 <br><br><br><br><br><br>
 
 
