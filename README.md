@@ -5,13 +5,15 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 
-- I’m currently developing myslef in **MSSQL, C#, EF Core LINQ, .Net MVC, .Net APIs**
+- I’m currently enhancing my skills in ASP.NET Core, focusing on building scalable and efficient web applications.
+  
+- Proficient in MSSQL, C#, and ASP.NET Core—feel free to ask me about these technologies!
 
-- Ask me about **MSSQL, C#, ASP.NET Core**
+- I’m also expanding my expertise into the DevOps world, learning tools and practices to streamline development and deployment processes.
 
-- Feel free to reach me out **eng.rawantarek21@gmail.com**
+- For collaboration or inquiries, reach out to me at eng.rawantarek21@gmail.com.
 
-- Know about my experiences [Check my resume](https://drive.google.com/file/d/13emnc-M8aZlFbORUO1Ye0TxvWZffolTh/view?usp=drive_link)
+- Learn more about my experiences: [Check my resume](https://drive.google.com/file/d/13emnc-M8aZlFbORUO1Ye0TxvWZffolTh/view?usp=drive_link)
 
 <br><br><br><br><br><br>
 
