@@ -7,7 +7,7 @@
 
 - I’m currently enhancing my skills in ASP.NET Core, focusing on building scalable and efficient web applications.
   
-- Proficient in MSSQL, C#, and ASP.NET Core—feel free to ask me about these technologies!
+- Proficient in MSSQL, C#, and ASP.NET Core, feel free to ask me about these technologies!
 
 - I’m also expanding my expertise into the DevOps world, learning tools and practices to streamline development and deployment processes.
 
