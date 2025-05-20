@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Rawan Tarek</h1>
-<h3 align="center">Software Engineer || CS Student </h3>
+<h3 align="center"> Backend Developer || Software Engineer </h3>
 <h4 align="center">I'm not a great programmer; I'm just a good programmer with great habits. </h4>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
