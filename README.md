@@ -13,7 +13,7 @@
  
  \- For collaboration or inquiries, reach out to me at eng.rawantarek21@gmail.com.
   
- \- Learn more about my experiences: [Check my resume](https://drive.google.com/file/d/1NjKHa3dGQr8OfPsk3DwsD_r1ugogy0eI/view?usp=drivesdk)
+ \- Learn more about my experiences: [Check my resume]((https://drive.google.com/file/d/1I4wf-jnxdMnClfzFWUoYSmEUsk-qWV9A/view?usp=sharing))
   
 
 
