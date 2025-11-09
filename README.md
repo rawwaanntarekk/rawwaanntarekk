@@ -11,9 +11,9 @@
 
  \- I’m also expanding my expertise into the DevOps world, learning tools and practices to streamline development and deployment processes.</p>
  
- \- For collaboration or inquiries, reach out to me at eng.rawantarek21@gmail.com.
+ \- For collaboration or inquiries, reach out to me at rawwannttarekk@gmail.com.
   
- \- Learn more about my experiences: [Check my resume](https://drive.google.com/file/d/1I4wf-jnxdMnClfzFWUoYSmEUsk-qWV9A/view?usp=sharing)
+ \- Learn more about my experiences: [Check my resume](https://drive.google.com/file/d/1lURomCLg9P7I3-dHXIhKVk6vnOiZgfYi/view?usp=sharing)
   
 
 
