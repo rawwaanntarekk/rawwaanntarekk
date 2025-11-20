@@ -5,18 +5,16 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 
-  \- I’m currently enhancing my skills in ASP.NET Core, focusing on building scalable and efficient web applications.
+ \- I’m actively deepening my expertise in ASP.NET Core and building backend systems that are scalable, secure, and built to last.
   
- \-  Proficient in MSSQL, C#, and ASP.NET Core, feel free to ask me about these technologies!</p>
+ \- I work confidently with MSSQL, C#, and ASP.NET Core — these are the technologies I know inside out, and I enjoy helping others with them.
 
  \- I’m also expanding my expertise into the DevOps world, learning tools and practices to streamline development and deployment processes.</p>
  
  \- For collaboration or inquiries, reach out to me at rawwannttarekk@gmail.com.
   
- \- Learn more about my experiences: [Check my resume](https://drive.google.com/file/d/1lURomCLg9P7I3-dHXIhKVk6vnOiZgfYi/view?usp=sharing)
+ \- Want a closer look at my work and experience?  [Check my resume](https://drive.google.com/file/d/1lURomCLg9P7I3-dHXIhKVk6vnOiZgfYi/view?usp=sharing)
   
-
-
 
 
 <br><br><br><br><br><br>
@@ -31,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,javascript,git,github,net,figma,redis,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,js,git,github,dotnet,figma,redis,postman,vscode,docker,firebase,postgres&perline=14" />
   </a>
 </p>
 
