@@ -2,7 +2,7 @@
 
 ### Software Engineer | Aspiring Software Quality Engineer
 
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif"/>
+<img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif"/>
 
 I’m a software engineer with a backend background; I love understanding how systems actually behave. Working on backend projects showed me not only how applications are built, but also where things usually go wrong.
 
