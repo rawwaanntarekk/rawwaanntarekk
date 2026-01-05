@@ -10,7 +10,7 @@ Mentoring and reviewing student projects helped me develop a habit of noticing l
 
 I’m currently building my skills in manual and API testing, using my technical background to test with understanding, not assumptions. 
 
-Open to QC and Software Quality Engineer rolesm, reach me at **rawwannttarekk@gmail.com**.\
+Open to QC and Software Quality Engineer roles, reach me at **rawwannttarekk@gmail.com**.\
 Want to see how I think and work? [Check my resume](https://drive.google.com/file/d/1Zx0gRLCcs7lFMALzSYCIsJvuGNtdvqHh/view?usp=sharing)
 
 
