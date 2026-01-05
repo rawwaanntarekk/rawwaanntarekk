@@ -1,47 +1,37 @@
-<h1 align="center">Hi There, I'm Rawan Tarek</h1>
-<h3 align="center"> Backend Developer || Software Engineer </h3>
-<h4 align="center">I'm not a great programmer; I'm just a good programmer with great habits. </h4>
+# Hi, I’m Rawan 👋
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
+### Software Engineer | Aspiring Software Quality Engineer
 
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif"/>
 
- \- I’m actively deepening my expertise in ASP.NET Core and building backend systems that are scalable, secure, and built to last.
-  
- \- I work confidently with MSSQL, C#, and ASP.NET Core — these are the technologies I know inside out, and I enjoy helping others with them.
+I’m a software engineer with a backend background; I love understanding how systems actually behave. Working on backend projects showed me not only how applications are built, but also where things usually go wrong.
 
- \- I’m also expanding my expertise into the DevOps world, learning tools and practices to streamline development and deployment processes.</p>
- 
- \- For collaboration or inquiries, reach out to me at rawwannttarekk@gmail.com.
-  
- \- Want a closer look at my work and experience?  [Check my resume](https://drive.google.com/file/d/1lURomCLg9P7I3-dHXIhKVk6vnOiZgfYi/view?usp=sharing)
-  
+Mentoring and reviewing student projects helped me develop a habit of noticing logical issues, missing validations, and edge cases. That experience naturally pulled me toward software testing and quality.
+
+I’m currently building my skills in manual and API testing, using my technical background to test with understanding, not assumptions. 
+
+Open to QC and Software Quality Engineer rolesm, reach me at **rawwannttarekk@gmail.com**.
+Want to see how I think and work? [Check my resume](https://drive.google.com/file/d/1Zx0gRLCcs7lFMALzSYCIsJvuGNtdvqHh/view?usp=sharing)
 
 
-<br><br><br><br><br><br>
 
+## Tools & Technologies I Use
 
-<div>
-  
-<div align="center">
-  <h2 style="display: inline-block;">Technologies I Master</h2>
-</div>
-
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,js,git,github,dotnet,figma,redis,postman,vscode,docker,firebase,postgres&perline=14" />
+    <img 
+      src="https://skillicons.dev/icons?i=cs,dotnet,postman,git,github,sql,docker,redis,azure,vscode,html,css,js,firebase,postgres&perline=8" 
+    />
   </a>
 </p>
 
-<h3 align="center" >Connect with me:</h3>
+
+---
+
+## Let’s Connect
+
 <p align="center">
-<a href="https://www.linkedin.com/in/rawan-tarek-29a04b22b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/rawan-tarek-29a04b22b/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="45" width="45"/>
+  </a>
 </p>
-
-
-
-
-
-
-
-</div>
